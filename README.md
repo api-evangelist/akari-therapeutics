@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Akari Therapeutics is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.akaritx.com
+Akari Therapeutics is an innovative targeted oncology company developing next‑generation antibody‑drug conjugates (ADCs) and a novel discovery engine. The firm focuses on advancing ADC payloads with novel immuno‑oncology payloads, expanding its intellectual property portfolio, and presenting corporate information through its investor and corporate sites.
+
+**Areas:** Company · Oncology · ADC · Biotechnology · Therapeutics · Clinical-Development
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.akaritx.com)
+- [Documentation](https://akaritx.com/)
+- [Getting started](https://akaritx.com/)
+- [Terms of service](https://akaritx.com/terms-of-use/)
+- [Privacy policy](https://akaritx.com/privacy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/akari-therapeutics/](https://apis.io/providers/akari-therapeutics/).
